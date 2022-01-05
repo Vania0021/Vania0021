@@ -1,6 +1,7 @@
 * :man_student: Formada em Gestão de TI pela Universidade Paulista.
 * :woman_technologist:	Trabalha atualmente como Analista de Suporte em TI.
 * 🌱 Estudando linguagem de programação Java.
+* Tudo aquilo que voc~e foca, expande!
 
 <div align="center">
   <a href="https://github.com/Vania0021">
